@@ -1,0 +1,7 @@
+C:\Users\sacol\Desktop\Atividade_Vetor\Atividade_Vetor01\Atividade_Vetor01\bin\Debug\Atividade_Vetor01.exe.config
+C:\Users\sacol\Desktop\Atividade_Vetor\Atividade_Vetor01\Atividade_Vetor01\bin\Debug\Atividade_Vetor01.exe
+C:\Users\sacol\Desktop\Atividade_Vetor\Atividade_Vetor01\Atividade_Vetor01\bin\Debug\Atividade_Vetor01.pdb
+C:\Users\sacol\Desktop\Atividade_Vetor\Atividade_Vetor01\Atividade_Vetor01\obj\Debug\Atividade_Vetor01.csproj.AssemblyReference.cache
+C:\Users\sacol\Desktop\Atividade_Vetor\Atividade_Vetor01\Atividade_Vetor01\obj\Debug\Atividade_Vetor01.csproj.CoreCompileInputs.cache
+C:\Users\sacol\Desktop\Atividade_Vetor\Atividade_Vetor01\Atividade_Vetor01\obj\Debug\Atividade_Vetor01.exe
+C:\Users\sacol\Desktop\Atividade_Vetor\Atividade_Vetor01\Atividade_Vetor01\obj\Debug\Atividade_Vetor01.pdb
